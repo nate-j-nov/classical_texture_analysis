@@ -1,10 +1,7 @@
 #######################
 # Nate Novak          #
-# CS5330 Project 2    #
 # Readme              #
 #######################
-
-Wiki URL: https://wiki.khoury.northeastern.edu/display/~natejnov/Project+2%3A+Content+Base+Image+Retrieval
 
 OS/IDE: Windows 10 // VS Code
 
